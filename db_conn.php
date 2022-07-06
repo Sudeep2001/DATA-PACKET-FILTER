@@ -2,7 +2,7 @@
 
 $sname= "localhost";
 $unmae= "root";
-$password = "Sudeep@123";
+$password = " ";
 $db_name = "login";
 
 $conn = mysqli_connect($sname, $unmae, $password, $db_name);
